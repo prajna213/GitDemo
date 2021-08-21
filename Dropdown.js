@@ -40,6 +40,10 @@ item.element(by.css("td:nth-child(3)")).getText().then(function(text)
 {
 
 console.log(text);
+console.log("ABC");
+console.log("DEF");
+console.log("ABC");
+console.log("DEF");
 })
 
 })
