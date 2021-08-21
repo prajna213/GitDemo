@@ -30,6 +30,8 @@ describe('Protractor baby steps',function() {
 				{
 					
 					console.log(text);
+					console.log("ABC");
+					console.log("DEF");
 				})
 						
 
